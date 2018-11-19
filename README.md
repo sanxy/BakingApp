@@ -22,6 +22,7 @@ In this project you will:
 * [ExoPlayer](https://github.com/google/ExoPlayer)
 * [Iconics](https://github.com/mikepenz/Android-Iconics)
 * [Timber](https://github.com/JakeWharton/timber)
+* [Gson](https://github.com/google/gson)
 
 
 # Authors
