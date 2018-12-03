@@ -30,7 +30,7 @@ Yusuf Adefolahan
 
 ## License
 
-Baking App Plus is made available under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+Baking App is made available under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 ```
 MIT License
 
